@@ -6,7 +6,6 @@ while True:
     
     if user == 1:
         number = random.randint(1,6)
-        # print(number)
         if number == 1:
             print('\nYour dice number is 1')
             print(' -----')
